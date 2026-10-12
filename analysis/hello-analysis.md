@@ -1,0 +1,1 @@
+You are a senior mainframe expert. Explain this COBOL program in plain English. List the paragraphs, any file I/O, and anything a modern developer would find surprising. Keep the answer under 200 words
